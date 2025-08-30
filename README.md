@@ -1,16 +1,28 @@
 ## Olá, eu sou o Kawã Fonseca 👋
 
 Atualmente estou cursando **Ciência da Computação** e trabalhando como **Estagiário em Suporte Técnico - Nível 1** na **FagronTech**.
-<p>
-        <a href="mailto:seuemail@icloud.com">
-          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/icloud.svg" width="40px" title="Email" alt="Email" style="margin:5px;"/>
-        </a>
-        <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" title="LinkedIn" alt="LinkedIn" style="margin:5px;"/>
-        </a>
-      </p>
-----
-### 🤖 Linguagens e Tecnologias
+
+---
+
+## ✉️ Informações para Contato
+
+<p align="center">
+  <a href="mailto:seuemail@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-icloud-black?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaw%C3%A3%20Fonseca-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/KawaFonseca" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Kaw%C3%A3%20Fonseca-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+## 🤖 Linguagens
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" title="HTML5" alt="HTML5" style="margin: 20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" title="CSS3" alt="CSS3" style="margin: 20px;"/>
@@ -21,6 +33,6 @@ Atualmente estou cursando **Ciência da Computação** e trabalhando como **Esta
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
+## 📊 Minhas Estatísticas do GitHub
 
 ![Kawã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KawaFonseca&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
