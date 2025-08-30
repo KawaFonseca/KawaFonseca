@@ -17,7 +17,7 @@ Atualmente estou cursando **Ciência da Computação** e trabalhando como **Esta
 
 ## 📊 Minhas Estatísticas do GitHub
 
-![Kawã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KawaFonseca&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
+![Kawã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KawaFonseca&show_icons=true&theme=blue_navy&include_all_commits=true&locale=pt-br)
 
 ---
 
