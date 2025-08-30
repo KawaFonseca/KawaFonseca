@@ -3,24 +3,6 @@
 Atualmente estou cursando **Ciência da Computação** e trabalhando como **Estagiário em Suporte Técnico - Nível 1** na **FagronTech**.
 
 ---
-
-## ✉️ Informações para Contato
-
-<p align="center">
-  <a href="mailto:seuemail@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-icloud-black?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaw%C3%A3%20Fonseca-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/KawaFonseca" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Kaw%C3%A3%20Fonseca-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
 ## 🤖 Linguagens
 
 <p align="left">
@@ -36,3 +18,23 @@ Atualmente estou cursando **Ciência da Computação** e trabalhando como **Esta
 ## 📊 Minhas Estatísticas do GitHub
 
 ![Kawã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KawaFonseca&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
+
+---
+
+## ✉️ Informações para Contato
+<p>
+
+</p>
+<p align="center">
+  <a href="mailto:seuemail@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-icloud-black?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaw%C3%A3%20Fonseca-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/KawaFonseca" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Kaw%C3%A3%20Fonseca-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
