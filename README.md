@@ -21,19 +21,21 @@ Atualmente estou cursando **Ciência da Computação** e trabalhando como **Esta
 
 ---
 
-## ✉️ Informações para Contato
-<p>
-
-</p>
+## ✉️ Informações para Contato<p>
 <p align="center">
-  <a href="mailto:seuemail@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-icloud-black?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
+  <a href="mailto:kawa.fonseca18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Kaw%C3%A3%20Fonseca-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/kaw%C3%A3-fonseca-6426b0347/)" target="_blank">
+  <a href="https:https://www.linkedin.com/in/kaw%C3%A3-fonseca-6426b0347/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kaw%C3%A3%20Fonseca-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+  <a href="https://seuportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Meu%20Site-110230?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/KawaFonseca" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Kaw%C3%A3%20Fonseca-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
