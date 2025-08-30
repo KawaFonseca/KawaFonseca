@@ -30,7 +30,7 @@ Atualmente estou cursando **Ciência da Computação** e trabalhando como **Esta
     <img src="https://img.shields.io/badge/Email-icloud-black?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
+  <a href="[https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/kaw%C3%A3-fonseca-6426b0347/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kaw%C3%A3%20Fonseca-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
