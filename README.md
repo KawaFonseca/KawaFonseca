@@ -6,11 +6,11 @@ Atualmente estou cursando **Ciência da Computação** e trabalhando como **Esta
 ## 🤖 Linguagens
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" title="HTML5" alt="HTML5" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" title="CSS3" alt="CSS3" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70px" title="Bootstrap" alt="Bootstrap" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70px" title="Python" alt="Python" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70px" title="Git" alt="Git" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML5" alt="HTML5" style="margin: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3" alt="CSS3" style="margin: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" title="Bootstrap" alt="Bootstrap" style="margin: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python" alt="Python" style="margin: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" title="Git" alt="Git" style="margin: 30px;"/>
 </p>
 
 ---
