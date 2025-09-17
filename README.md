@@ -1,6 +1,6 @@
 ## Olá, eu sou o Kawã Fonseca 👋
 
-Atualmente estou cursando **Ciência da Computação** e trabalhando como **Estagiário em Suporte Técnico - Nível 1** na **FagronTech**.
+Atualmente estou cursando **Ciência da Computação** e trabalho como **Analista de Suporte** na **FagronTech**.
 
 ---
 ## 🤖 Linguagens
